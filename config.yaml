@@ -1,0 +1,7 @@
+USER_FOLDER: /home/parallels/
+TST_FOLDER: /home/parallels/tst
+OUT_FOLDER: /home/parallels/out
+FOLDER_FOLDER: /home/parallels/folder1
+COUNT: 10
+FILE_SIZE: 1M
+ARC_TYPE: zip
